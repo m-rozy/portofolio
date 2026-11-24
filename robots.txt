@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://m-rozy.github.io/sitemap.xml
